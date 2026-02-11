@@ -1,0 +1,1 @@
+Django==4.2.0\ndjangorestframework==3.14.0\npython-dotenv==1.0.0\npsycopg2-binary==2.9.6\openai==0.27.8\ngoogle-cloud-texttospeech==2.14.0\ndjango-cors-headers==4.0.0\ngunicorn==20.1.0\nPillow==9.5.0\ndjangorestframework-simplejwt==5.2.2
