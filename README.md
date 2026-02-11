@@ -1,1 +1,3 @@
-"# SKYNETIC - AI-based Online Learning Platform" 
+# SKYNETIC
+
+This is the initial project structure for the SKYNETIC project.
